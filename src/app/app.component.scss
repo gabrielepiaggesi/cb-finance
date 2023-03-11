@@ -1,0 +1,20 @@
+td {
+    padding: 10px 20px;
+    border: 1px solid #dddddd;
+}
+tr:first-child {
+    td {
+        background-color: lightgrey;
+    }
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+.green {
+    background-color: lightgreen;
+}
+button {
+    cursor: pointer;
+}
